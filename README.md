@@ -39,6 +39,11 @@ An engaging, interactive, and user-friendly stopwatch web application crafted to
 
 ---
 
+## Live Demo
+[visit Stopwatch](https://cornhaki.github.io/PRODIGY_WD_02/)
+
+---
+
 ## **Screenshots** 📸
 
 ### **Take a Look at the Application in Action**
